@@ -1,0 +1,99 @@
+img{
+    max-width: 100%;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f5f5;
+}
+
+/* Headaer Section */
+
+.header_main{
+    background-color: #3ec1a1;
+}
+
+.header_logo img {
+	width: 121px;
+}
+
+ul.header_menu{}
+ul.header_menu li{
+
+    list-style: none;
+}
+ul.header_menu li a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 14px;
+	padding: 0px 14px;
+}
+ul.header_menu li:hover{
+    background-color: rgba(255, 255, 255, 0.11);
+}
+
+
+.end_menu{}
+.chat_icon{
+    width: 70px;
+}
+.chat_icon span{}
+.fullName {
+	width: 200px;
+	font-size: 14px;
+}
+.fullName a{
+    color: #fff;
+    text-decoration: none;
+}
+
+/* slider_item */
+
+.left_slider
+
+.card img{}
+.card-subtitle {
+	font-size: 12px;
+	font-weight: 600;
+	margin-top: 24px;
+}
+
+.slider_item{}
+
+.right_slider{}
+.right_slider .card {
+	margin-left: 20px;
+	padding: 18px 0px;
+}
+
+/* card_icon */
+.card_icon {
+	color: #e12121;
+	font-size: 43px;
+	/* font-weight: 300; */
+}
+.card_icon span{}
+
+.card_info {
+	margin-left: 18px;
+	position: relative;
+	top: 13px;
+}
+.card_info h6 {
+	font-size: 14px;
+}
+.card_info a {
+	font-size: 13px;
+	color: red;
+    text-decoration: none;
+}
+
+.card_all{}
+
+.green{
+    color: green;
+}
+
+.pastt{
+    color: #00bcd4;
+}
